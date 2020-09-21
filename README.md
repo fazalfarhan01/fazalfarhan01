@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<p align="center">
+  <img width="100%" src="./readme.gif">
+</p>
 <!--
 **fazalfarhan01/fazalfarhan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
