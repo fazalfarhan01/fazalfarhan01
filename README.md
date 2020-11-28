@@ -2,7 +2,9 @@
   <img width="100%" src="./readme.gif">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazalfarhan01&exclude_repo=website)]
+Note: These aren't all the languages I code with..! There are private repos..! 😁
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazalfarhan01&exclude_repo=website)
 
 <!--
 **fazalfarhan01/fazalfarhan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
